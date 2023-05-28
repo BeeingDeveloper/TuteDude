@@ -1,0 +1,17 @@
+
+.text-color{
+    color: #800080;
+}
+
+.page-bg{
+    background: #ffffffeb;
+}
+
+.bg-btn{
+    background: #800080    ;
+}
+
+.border-gradient{
+    background: linear-gradient(to right,rgb(255, 149, 1), #800080);
+    
+}
