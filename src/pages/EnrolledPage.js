@@ -49,7 +49,7 @@ const EnrolledPage = () => {
         </div>
 
         <h2 className='text-color '>Friends who enrolled <span className='text-slate-400'>(3)</span></h2>
-        <div className='flex justify-between mt-5 w-full mb-14'>
+        <div className='flex flex-col lg:flex-row gap-5 justify-between mt-5 w-full mb-14'>
         {
             data.map((elm, i)=>{
                 return (
